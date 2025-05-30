@@ -1,6 +1,6 @@
 # Power BI Sales Analysis
-###### A dynamic stakeholder exploratory dasbhboard analyzing data for fictitious company named 'Awesome Chocolates'
 ___
+###### A dynamic stakeholder exploratory dasbhboard analyzing data for fictitious company named 'Awesome Chocolates'
 
 ## Project Overview
 The dashboard is designed with the aim of providing exploratory capability to managers to track key business success metrics including Total Sales, Total Cost, Total Shipments, Boxes Shipped, and Total Profit. 
