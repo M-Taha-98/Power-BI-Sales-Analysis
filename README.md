@@ -1,5 +1,5 @@
 # Power BI Sales Analysis
-___
+
 ###### A dynamic stakeholder exploratory dasbhboard analyzing data for fictitious company named 'Awesome Chocolates'
 
 ## Project Overview
