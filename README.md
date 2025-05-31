@@ -8,9 +8,9 @@ The dashboard is designed with the aim of providing exploratory capability to ma
 The dashboard capabilities are elaborated below.
 
 ## Tools Used
-- Power BI
+- <img height="32px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg"> Power BI
 
-## Dashboard Design
+## Dashboard Design [![View Dashboard on Power BI](https://img.shields.io/badge/View%20Dashboard%20on-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMjk5OTg5M2QtM2NjYS00Mzk3LWIxM2YtZjYyOGFlOTk4ODU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 - KPI cards for high-level tracking of business metrics including details of total previous month and MoM change.
 - Dynamic Trend Analysis chart with field parameters to allow for capability to toggle between multiple views and track different metrics within same visual:
