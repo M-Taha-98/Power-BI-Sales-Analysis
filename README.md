@@ -27,4 +27,5 @@ The dashboard capabilities are elaborated below.
 ![image](https://github.com/user-attachments/assets/1d32f92d-7798-4658-90d5-a6f831a2b680)
 
 ___
-[View my Linkedin](https://www.linkedin.com/in/mohammadtaha-businessanalytics/)
+
+[![View LinkedIn Profile](https://img.shields.io/badge/View%20Profile%20on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadtaha-businessanalytics/)
